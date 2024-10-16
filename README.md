@@ -10,4 +10,6 @@ You can access the code and run it directly on GitHub or Google Colab:
 - [Open in GitHub](https://github.com/saeed-saffari/LLM_education_topic_modeling/blob/main/topic_modeling_001.ipynb)
 - [Open in Google Colab](https://colab.research.google.com/github/saeed-saffari/LLM_education_topic_modeling/blob/main/topic_modeling_001.ipynb)
 
-[View LDA Visualization (10 Groups)](https://<username>.github.io/<repository>/lda_visualization_10_group.html)
+[View LDA Visualization (10 Groups)](https://saeed-saffari.github.io/LLM_education_topic_modeling/lda_visualization_10_group.html)
+
+
