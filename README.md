@@ -1,6 +1,6 @@
 # LLM Education Topic Modeling
 
-This project focuses on using **topic modeling** (specifically **Latent Dirichlet Allocation** or LDA) to explore how large language models (LLMs) are applied in educational contexts. The goal is to uncover key themes such as personalized learning, content creation, and writing assistance based on descriptions of LLM tools.
+This project focuses on using **topic modeling** to explore how large language models (LLMs) are applied in educational contexts. The goal is to uncover key themes such as personalized learning, content creation, and writing assistance based on descriptions of LLM tools.
 
 ### Visualization Files:
 
